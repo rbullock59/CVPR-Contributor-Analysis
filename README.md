@@ -75,13 +75,13 @@ python project2.py
 
 The script will:
 
-Scrape the CVPR website for author data from 2022 to 2024.
+1. Scrape the CVPR website for author data from 2022 to 2024.
 
-Process the data and count author contributions.
+1. Process the data and count author contributions.
 
-Identify the top three contributors.
+1. Identify the top three contributors.
 
-Save the results in cvpr_top_contributors.xlsx.
+1. Save the results in cvpr_top_contributors.xlsx.
 
 ## Example output
 
