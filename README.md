@@ -6,13 +6,13 @@ This project is a Python-based web scraper that extracts information about the t
 
 ### Features
 
-Web scraping of CVPR conference paper authorship data.
+- Web scraping of CVPR conference paper authorship data.
 
-Extraction and aggregation of author contribution counts over three years.
+- Extraction and aggregation of author contribution counts over three years.
 
-Logging of execution details and error handling.
+- Logging of execution details and error handling.
 
-Output results stored in an Excel spreadsheet.
+- Output results stored in an Excel spreadsheet.
 
 ### Dependencies
 
@@ -97,7 +97,7 @@ An example output stored in `cvpr_top_contributors.xlsx`:
 
 Execution logs are saved in docs/logs/ with timestamps.
 
-## Challenges Faced
+## Challenges
 
 - Handling website request timeouts and errors.
 
