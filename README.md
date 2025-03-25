@@ -46,7 +46,7 @@ pip install requests beautifulsoup4 pandas
 
 ```
 project-folder/
-│── project2.py  # Main Python script
+│── cvpr_analysis.py  # Main Python script
 │── README.md
 │── docs/
 │   │── logs/   # Logs directory
